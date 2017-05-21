@@ -1,3 +1,2 @@
 # Reactnative
-
-*Ứng dụng chat Realtime React Native for GTX
+?ng d?ng chat Realtime React Native for GTX
