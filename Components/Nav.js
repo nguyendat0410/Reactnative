@@ -55,7 +55,8 @@ const SideMenu = DrawerNavigator({
 }, {
 		drawerWidth: 300,
 		drawerPosition: 'left',
-		contentComponent: props => <ScrollView><Text {...props}>Menu</Text></ScrollView>
+		contentComponent: props =>
+			<ScrollView><Text style={{ paddingTop: 20 }} {...props}>Menu</Text></ScrollView>
 	});
 
 export default class Nav extends Component {
